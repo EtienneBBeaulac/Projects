@@ -12,3 +12,6 @@ https://github.com/johnmwood/Thread-Scrapping/blob/master/Thread%20Scraping%20.i
 Here is the link to my machine learning repository:
 https://github.com/exaudeus/Machine-Learning
 
+### Data Wrangling & Visualization
+Here is hte link to my Data Science repository:
+https://github.com/exaudeus/Data-Science
